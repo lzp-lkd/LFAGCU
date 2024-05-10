@@ -9,6 +9,10 @@ Manuscript (Local Feature Acquisition and Global Context Understanding Network f
 
 ** class_RSSCN7.json**,**class_UCMerced_LandUse.json**,**class_WHU_RS19.json** : is the label file corresponding to the training data set 
 
+
+![image](https://github.com/lzp-lkd/LFAGCU/assets/98893923/b7d50e33-2d3d-45c1-89d9-609cadc7f3c1)
+
+
  """    RSSCN7 data    """
     legend_labels = ["aGrass",
                   "bField",
