@@ -12,7 +12,7 @@ Manuscript (Local Feature Acquisition and Global Context Understanding Network f
 
 ![image](https://github.com/lzp-lkd/LFAGCU/assets/98893923/b7d50e33-2d3d-45c1-89d9-609cadc7f3c1)
 
-![Uploading image.png…]()
+![image](https://github.com/lzp-lkd/LFAGCU/assets/98893923/54c0c73b-bdd3-4048-8595-5801eed41561)
 
 
  """    RSSCN7 data    """
